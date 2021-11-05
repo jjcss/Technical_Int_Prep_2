@@ -4,7 +4,7 @@
 <b>Time</b>: 12:00PM - 1:00PM <br>
 <b>Lead</b>: Leandro Gamarra <br>
 
-Thank you to everyone that joined. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems. In this meeting we went over <b>Sets and Dictionaries</b>. Please try to solve these problems on your own first, and then if you get stuck or want to compare your answers take a look at the solutions file. Also, I've prepared a few other dictionary problems. This can be found in the second file in the repo.
+Thank you to everyone that joined. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems. In this meeting we went over <b>Sets and Dictionaries</b>. Please try to solve these problems on your own first, and then if you get stuck or want to compare your answers take a look at the solutions file. Also, I've prepared a few other dictionary problems. This can be found below.
 
 # Steps to Accessing Questions Repl.it File
 
@@ -21,5 +21,11 @@ Thank you to everyone that joined. Hopefully you learned something and will cont
 <b>Step 2</b>: If you have a Replit account then fork this repl file <br>
 <b>Step 3</b>: If you don't have an account, make one and then fork the repl file. <br>
 <b>Step 4</b>: After forking Repl.it take a look at the solution for the problems above.
+
+# More Practice Dictionary Problems
+
+<b>Problems with no solution</b>: Go to this link: https://replit.com/@AmandaSopkin/Week-4-Session-1-Questions <br>
+<b>Problems with the solution</b>: Go to this link: https://replit.com/@r0m3c/Week-4-Session-1-Questions-6#problem1.py <br>
+Happy Coding!
 
 
