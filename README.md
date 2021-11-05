@@ -3,6 +3,7 @@
 <b>Date</b>: November 5th, 2021 <br>
 <b>Time</b>: 12:00PM - 1:00PM <br>
 <b>Lead</b>: Leandro Gamarra <br>
+<b>Topic</b>: Sets & Dictionaries <br>
 
 Thank you to everyone that joined. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems. In this meeting we went over <b>Sets and Dictionaries</b>. Please try to solve these problems on your own first, and then if you get stuck or want to compare your answers take a look at the solutions file. Also, I've prepared a few other dictionary problems. This can be found below.
 
