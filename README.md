@@ -1,10 +1,10 @@
-# CSS Technical Interview Prep #1
+# CSS Technical Interview Prep #2
 
-<b>Date</b>: October 16th, 2021 <br>
+<b>Date</b>: November 5th, 2021 <br>
 <b>Time</b>: 12:00PM - 1:00PM <br>
 <b>Lead</b>: Leandro Gamarra <br>
 
-I just wanted to give a big thank you to everyone who joined us. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems. This was an introductory level to technical interviews and we only solved probelms that involved manipulating strings and getting arrays indexes. Please try to solve these problems on your own first, and then if you get stuck or want to compare your answers take a look at the solutions file.
+Thank you to everyone that joined. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems. In this meeting we went over <b>Sets and Dictionaries</b>. Please try to solve these problems on your own first, and then if you get stuck or want to compare your answers take a look at the solutions file.
 
 # Steps to Accessing Questions Repl.it File
 
